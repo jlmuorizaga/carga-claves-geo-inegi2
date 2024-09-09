@@ -1,0 +1,7 @@
+{
+  "name": "carga-claves-geo-inegi2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
